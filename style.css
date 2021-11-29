@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.app {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -24,7 +24,7 @@ body {
   }
 
 }
-.app {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
